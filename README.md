@@ -1,15 +1,26 @@
-# 🌐 Global Superstore Sales Dashboard
+<div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=🌐%20Global%20Superstore%20Sales%20Dashboard&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Power%20BI%20%7C%20Data%20Analysis%20%7C%20Business%20Intelligence&descSize=16&descAlignY=58&descColor=00b4d8" />
 
-> **An end-to-end interactive business intelligence dashboard built on the Global Superstore dataset — transforming 51,000+ raw transactional records into executive-level insights across 7 global regions, 3 product categories, and 4 years of business history.**
+</div>
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![LEVEL](https://img.shields.io/badge/LEVEL-INTERMEDIATE%20%7C%20ADVANCED-FF6B6B?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge)
+
+<br>
+
+*"Turning raw data into business decisions — one insight at a time."*
+
+</div>
 
 ## 📸 Dashboard Preview
 
-![Global Superstore Sales Dashboard](./dashboard_preview.png)
+<img width="1284" height="720" alt="image" src="https://github.com/user-attachments/assets/294f7709-df6c-497e-a17d-3a21a423f82b" />
 
 ## 📊 Key Metrics at a Glance
 
@@ -153,28 +164,38 @@ global-superstore-dashboard/
 
 `Data Cleaning` `Exploratory Data Analysis` `DAX Calculations` `KPI Design` `Business Intelligence` `Data Storytelling` `Trend Analysis` `Profit Margin Analysis` `Return Rate Analysis` `Executive Reporting` `Discount Optimisation`
 
-## 🤝 Let's Connect
+## 👩‍💻 About the Author
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="mailto:umamaheshwaripoloju@gmail.com">
-        <img src="https://img.shields.io/badge/📧_Drop_me_a_Mail-FF6B6B?style=for-the-badge" />
-        <br><sub><b>umamaheshwaripoloju@gmail.com</b></sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/">
-        <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge" />
-        <br><sub><b>Poloju Uma Maheshwari</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Open+to+Data+Analyst+Opportunities+%F0%9F%9A%80;Let%27s+turn+data+into+decisions+together+%F0%9F%93%8A;Always+curious%2C+always+learning+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
+**Uma Maheshwari** &nbsp;*Data Analyst | Power BI Developer | Business Intelligence*
 
-<p align="center"><i>"Data is not just numbers — it's the story of every decision a business ever made."</i></p>
-<p align="center">⭐ If this project added value to you, a star would make my day!</p>
+<br>
+
+<a href="https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/">
+  <img src="https://img.shields.io/badge/CONNECT-00C853?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="mailto:umamaheshwaripoloju@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:umamaheshwaripoloju@gmail.com">
+  <img src="https://img.shields.io/badge/REACH%20OUT-FF6B6B?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Open+to+Data+Analyst+Opportunities+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX+%F0%9F%92%A1" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+
+</div>
